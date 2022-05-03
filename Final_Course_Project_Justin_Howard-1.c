@@ -1736,7 +1736,7 @@ const int highlight[16][16] = {
 };
 
 volatile int pixel_buffer_start; // global variable
-int player_floor = 9;
+int player_floor = 0;
 int player_sprite = 0;
 int player_health = 500;
 int player_max_health = 500;
