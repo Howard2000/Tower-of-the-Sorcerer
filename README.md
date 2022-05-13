@@ -14,6 +14,7 @@ You can refer to the file ***How to use CPUlator*** to learn more about the simu
 |Keyboard|W|S|A|D|
 |Onboard push buttons|3|2|1|0|
 
+*Note: Keyboards control is not available on the CPUlator*
 ### Change apperance
 
 Turn on switch 0 on the DE1-SoC board to switch to change appearance mode. Then press and push buttons on the board to change the appearance of the main character.
